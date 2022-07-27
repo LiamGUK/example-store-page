@@ -1,0 +1,19 @@
+.footer-group {
+
+    &--upper {
+        background-color: #000;
+        padding: 10rem 0;
+    }
+    &--img {
+        max-width: 8rem;
+        margin: auto;
+    }
+
+    &--lower {
+        text-align: center;
+        padding: 3rem 0;
+        background-color: $color-footer-secondary;
+        color: $color-secondary;
+    }
+
+}
