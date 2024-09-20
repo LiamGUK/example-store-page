@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/15da3bcc-f29c-4505-afbf-94e3c478bc3b/deploy-status?branch=main)](https://app.netlify.com/sites/example-store-page-collect/deploys)
+
 # Example store page
 
 <p>Example product list store page with external data request load - products generated through API</p>
